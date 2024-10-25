@@ -3,6 +3,6 @@
 2. Extract the files and click in index.html with right button, Open With and select he Google Chrome or your Web Browser preference.
 3. And my project is in your computer.<br>
 
-or acessing this link: <a href="https://lucasgabwi.github.io/HTML-CV-Project">Click here</a>
+or acessing this link: [Click here](https://roadmap.sh/projects/single-page-cv)
 
 &copy; 2024 lucasgabwi for <a href="https://roadmap.sh">roadmap.sh</a>
