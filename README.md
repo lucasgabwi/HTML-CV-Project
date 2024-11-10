@@ -5,6 +5,6 @@
 
 or acessing this link: [Click here](https://roadmap.sh/projects/single-page-cv)
 
-<p>Link for the project in the roadmap.sh: <a href="https://roadmap.sh/projects/single-page-cv">the link</a>.</p>
+<p>Link for the project in the roadmap.sh: [Click here](https://roadmap.sh/projects/single-page-cv).</p>
 
-&copy; 2024 lucasgabwi for <a href="https://roadmap.sh">roadmap.sh</a>
+<p>&copy; 2024 lucasgabwi for <a href="https://roadmap.sh">roadmap.sh</a></p>
