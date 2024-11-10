@@ -5,6 +5,6 @@
 
 or acessing this link: <a href="https://lucasgabwi.github.io/HTML-CV-Project/">click here</a>
 
-<p>Link for the project in the roadmap.sh: [Click here](https://roadmap.sh/projects/single-page-cv).</p>
+Link for the project in the roadmap.sh: [Click here](https://roadmap.sh/projects/single-page-cv).
 
 <p>&copy; 2024 lucasgabwi for <a href="https://roadmap.sh">roadmap.sh</a></p>
